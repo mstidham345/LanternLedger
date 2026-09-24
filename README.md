@@ -1,13 +1,14 @@
-# LanternLedger
-
-Small-business books for Windows (sole props and single-member LLCs).
+wrote readme 441
+Small-business books for Windows. Your data stays on your own computer.
 
 ## Download
 
-Get the latest **LanternLedger Setup.exe** from [Releases](https://github.com/mstidham345/LanternLedger/releases).
+Get the latest installer from **[Releases](https://github.com/mstidham345/LanternLedger/releases)**.
 
-Your books stay in `%APPDATA%\LanternLedger` when you install or update. Installing again updates the app only — it does not wipe your books.
+Download **LanternLedger Setup.exe**, then run it to install.
 
-## Check for updates
+## Terms of use
 
-In the app: **Settings → Check for updates**.
+By downloading or using LanternLedger, you agree to the [Terms of use](./LICENSE).
+
+This is a bookkeeping tool only — not tax, legal, or accounting advice.
